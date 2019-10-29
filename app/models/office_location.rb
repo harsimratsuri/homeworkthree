@@ -1,0 +1,2 @@
+class OfficeLocation < ApplicationRecord
+end
